@@ -6,7 +6,7 @@ I'm eager to build projects that blend functionality with clean design, while co
 ## 🔧 Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Nest.js  
-- **Database:** PostgreSQL  
+- **Database:** PostgreSQL, MySQL  
 - **Tools & Others:** Git, Docker, Playwright, Detox 
 
 ### 📫 Let's Connect
