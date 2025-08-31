@@ -1,16 +1,15 @@
-## Hi there 👋
+## Greetings! I'm Kerby👋
+🎓 Computer Science Graduate | 💻 Passionate about Web Development 
 
-<!--
-**KerbyC-3/KerbyC-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm eager to build projects that blend functionality with clean design, while constantly learning new technologies and improving my skills.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Nest.js  
+- **Database:** PostgreSQL  
+- **Tools & Others:** Git, Docker, Playwright, Detox 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+- GitHub: [github.com/KerbyC-3](https://github.com/KerbyC-3)  
+- LinkedIn: *www.linkedin.com/in/jim-kerby-cabilin-7198b8320*  
+- Email: *jimkerbycabilin@gmail.com*
